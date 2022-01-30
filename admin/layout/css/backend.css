@@ -1,0 +1,36 @@
+body {
+  background-color: #f4f4f4;
+  font-size: 16px;
+}
+.login {
+  width: 300px;
+  margin: 100px auto;
+}
+.login h4 {
+  color: #888;
+}
+.login input {
+  margin-bottom: 10px;
+}
+.login .form-control {
+  background-color: #eaeaea;
+}
+.login .btn {
+  background-color: #008dde;
+}
+.navbar {
+  border-radius: 0;
+  margin-bottom: 0;
+}
+.nav > li > a,
+.navbar-brand {
+  padding: 15px 12px;
+}
+.navbar-brand {
+  font-size: 1em;
+}
+.navbar-inverse .navbar-nav > .open > a,
+.navbar-inverse .navbar-nav > .open > a:focus,
+.navbar-inverse .navbar-nav > .open > a:hover {
+  background-color: #3498db;
+}
